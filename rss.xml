@@ -4,7 +4,7 @@
         <description><![CDATA[TIMBERPRO News and Views]]></description>
         <link>https://thegrid.ai/timberpro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 17:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 17:33:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/timberpro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/timberpro/adad9593-0fe6-4aca-9f09-e4d7978de5aa/index.html</link>
             <guid isPermaLink="false">adad9593-0fe6-4aca-9f09-e4d7978de5aa</guid>
             <pubDate>Wed, 06 Jan 2016 17:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.telegraph.co.uk/content/dam/gardening/2016/01/04/broccoli-web-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg">]]></description>
+            <link>https://thegrid.ai/timberpro/the-plants-you-should-be-growing-this-year-salonova-lettuc/index.html</link>
+            <guid isPermaLink="false">da2300e4-90ae-4767-b79e-ccfaf254b8da</guid>
+            <pubDate>Wed, 06 Jan 2016 17:33:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,7 @@
 name: TIMBERPRO
 favicon: null
-layout_spectrum: 0.7675546237733215
-typography_spectrum: 0.603168259607628
+layout_spectrum: 0.99519
+typography_spectrum: 0.75489
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8420753991231322
-  lightness: 0.34130073664709926
-  saturation: 0.6879112394526601
-  rhythmicContrast: 0.03207973390817642
+    - '#000000'
+    - '#7b7a7a'
+    - '#018901'
+    - '#ffffff'
+    - '#80ff80'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []

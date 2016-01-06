@@ -1,0 +1,22 @@
+---
+description: 'The plants you should be growing this year   SALONOVA LETTUCES CREDIT: JONATHAN BUCKLEY Sponsored by Sage  Starting your own business: ask the experts Find out '
+author: []
+datePublished: '2016-01-06T17:33:29.776Z'
+publisher:
+  domain: www.telegraph.co.uk
+  name: telegraph.co.uk
+dateModified: '2016-01-06T17:32:24.717Z'
+title: ''
+sourcePath: _posts/2016-01-06-the-plants-you-should-be-growing-this-year-salonova-lettuc.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: the-plants-you-should-be-growing-this-year-salonova-lettuc/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+![](http://www.telegraph.co.uk/content/dam/gardening/2016/01/04/broccoli-web-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg)
+
+The plants you should be growing this year SALONOVA LETTUCES CREDIT: JONATHAN BUCKLEY Sponsored by Sage Starting your own business: ask the experts Find out how to turn your idea from a back of an envelope plan to a business empire Sarah Raven 5 JANUARY 2016 • 7:00AM Sarah Raven tested more than 50 new plants. These are her favourites - for ease, longevity, appearance and flavour I trialled more than 50 new plants from seed in 2015 and these were my favourites, ornamental and edible, from a range of seed catalogues. The first is a new annual rudbeckia called 'Sahara Mix', with flowers in a mix of colours -- green, ochre, soft gold, crimson and mahogan. Single and double flowers appear, sometimes with a range of colours in one flower (plantsofdistinction.co.uk). They flowered from summer to the first hard frost and, like all rudbeckias, lasted well as a cut flower. We also planted a swathe of Ammi visnaga 'Compact' (ornamental carrot), which we loved, too (wholesale from Graines Voltz, retail from sarahraven.com). The ammis are beautiful umbellifers with white flowers, which in this smaller, pot-friendly variety turn green as the petals drop, looking good from bud to seedpod.  Rudbeckia hirta 'Sahara' CREDIT: JONATHAN BUCKLEY Potentilla 'Monarch's Velvet' and Heuchera sanguinea 'Leuchtkafer' (both seedaholic.com) are ideal for winter pots, their leaves the perfect foil for bulbs emerging to flower above them in spring. As evergreens, they'll keep pots full and interesting for the winter. Then the velvet flowers of the potentilla in particular are a joy in early summer. Red millet is another must-have (kingscrops.com). This elegant grass has arching flower panicles in green washed with crimson, which stood tall enough to make the perfect filler in our dahlia bed. It is equally beautiful and upright in a pot, without any need for staking. That would be enough to make me grow it again, but I came across it sold commercially as a game cover crop (K21b Poacher Red Millet) and indeed birds absolutely love it. Every time I walked out to the dahlias, I'd disturb a flurry of blue tits, gold finches and sparrows, 20-30 at a time, having a feast. On to edibles: we had huge success with watercress (thompson-morgan.com), which I assumed needed to be grown in running water, yet it grew happily in a raised bed. It triumphed in spring, died back in summer and then shot up again as soon as the weather got damp and cold. I also loved the Japanese edible and ornamental plant shiso, or perilla, much tastier in its green, rather than crimson-black leaved, form (nickys-nursery.co.uk). You can add the clean-tasting, astringent leaves torn up in a salad or stir-fry, or use the green to make a punchy pesto or green sauce to go with lamb or fish. We trialled both in the herb garden and it looked good for five months at least. Two tips for good germination -- store the seed in the fridge and germinate with no added heat. Broccoli - spigariello CREDIT: JONATHAN BUCKLEY Then there was a broccoli called spigariello (denieuwetuin.be). This is one of the most versatile plants I've grown (see left). From a spring sowing, you can eat the narrow, silvery leaves as kale all summer, then go on to eat the buds as tender-stem broccoli in early autumn. The flowers are good scattered over salad, before you return to eating the leaves and flower buds again. Finally, a couple of lettuce: 'Descartes' (sarahraven.com) and 'Seurat' (bakker.co.uk). The contrasting green and crimson looks good together and they're both cut-and-come-again. You can harvest the outer leaves for a salad several times a week and they will keep replenishing, the perfect plants for a window box or pot. All of these are easy to grow from seed and massive performers.
